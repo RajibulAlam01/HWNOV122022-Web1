@@ -1,0 +1,37 @@
+* when you start working on a website the most important thing is CODE COMMENTING. you have to do it.
+section define
+layout define
+asset gather
+   img
+   logo
+   icon
+   text
+ui ux
+
+3 types of logo
+  Text
+  iconic
+  iconic+text
+
+ font weight
+ 	300 - thin
+ 	400 - normal  (this is the default for paragraph)
+ 	700 - bold
+
+ color
+sb #008aff
+nb #0f2656
+rd #f26d7a
+backgr c #fdebed
+green #ebf9f4
+yellow #fff7e8
+blue
+
+Property
+Font Family
+Font size
+font weight
+color
+Letter spacing
+Line height
+Word spacing
